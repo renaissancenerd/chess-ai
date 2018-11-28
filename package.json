@@ -1,0 +1,19 @@
+{
+  "name": "chess-ai",
+  "version": "1.0.0",
+  "description": "simple AI based chess",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaissancenerd/chess-ai.git"
+  },
+  "author": "Vatsal Limbachia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renaissancenerd/chess-ai/issues"
+  },
+  "homepage": "https://github.com/renaissancenerd/chess-ai#readme"
+}
